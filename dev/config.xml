@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Teclado Power</name>
+    <name>Teclado </name>
 
     <description>
         Piano utilizando Sonidos
@@ -23,5 +23,5 @@
 		<!-- PARA QUE EL DISPOSITIVO SIEMPRE ESTE DE FORMA HORIZONTAL-->
 		<preference name="orientation" value="landscape" />
 		<preferance name="premissions" value="INTERNET"/>
-		<icon src="assets\img\ico\mdpi.png"/>
+		<icon src="mdpi.png"/>
 </widget>
