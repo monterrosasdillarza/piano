@@ -17,7 +17,9 @@ var scripts = [
   '<%= config.dev %>**/_zepto.min.js', // JQuery
   '<%= config.dev %>**/howler.js', // Howler for HTML5 Audio
   '<%= config.dev %>**/_general.js' // General settings
+  
 ];
+
 
 // Grunt config
 grunt.initConfig({
